@@ -38,7 +38,7 @@ Instead of constantly changing your tablet’s active area in OpenTabletDriver, 
 ## ⚙️ How to Install and Use
 
 ### **Installation:**
-1. Download the **Pointer Sensitivity DLL file** from the [Releases](https://github.com/YOUR-GITHUB-USERNAME/PointerSensitivity/releases).
+1. Download the **Pointer Sensitivity DLL file** from the [Releases](https://github.com/Joshua62210/Pointer-Sensitivity/releases).
 2. Move the `.dll` file into the **OpenTabletDriver plugin folder**.
 
 ### **Usage:**
@@ -50,7 +50,7 @@ Instead of constantly changing your tablet’s active area in OpenTabletDriver, 
 ---
 
 ## 📥 Download
-You can find the latest version in the [Releases](https://github.com/YOUR-GITHUB-USERNAME/PointerSensitivity/releases) section.
+You can find the latest version in the [Releases](https://github.com/Joshua62210/Pointer-Sensitivity/releases) section.
 
 ---
 
