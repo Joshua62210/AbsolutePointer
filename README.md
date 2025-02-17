@@ -29,7 +29,7 @@ Unlike traditional sensitivity settings that force you to reduce the active area
 ## ⚙️ How to Install and Use
 
 ### **Installation:**
-1. Download the **AbsolutePointer DLL file** from the [Releases](https://github.com/YOUR-GITHUB-USERNAME/AbsolutePointer/releases).
+1. Download the **AbsolutePointer DLL file** from the [Releases](https://github.com/Joshua62210/AbsolutePointer/releases).
 2. Move the `.dll` file into the **OpenTabletDriver plugin folder**.
 
 ### **Usage:**
@@ -41,7 +41,7 @@ Unlike traditional sensitivity settings that force you to reduce the active area
 ---
 
 ## 📥 Download
-You can find the latest version in the [Releases](https://github.com/YOUR-GITHUB-USERNAME/AbsolutePointer/releases) section.
+You can find the latest version in the [Releases](https://github.com/Joshua62210/AbsolutePointer/releases) section.
 
 ---
 
