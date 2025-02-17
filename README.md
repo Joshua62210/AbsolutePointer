@@ -12,7 +12,7 @@ Unlike traditional sensitivity settings that force you to reduce the active area
 ### **✅ Maintain Full Active Area with Precision**
 **Without this plugin:** Increasing the pointer speed usually **reduces the tablet's active area**, limiting movement precision.
 
-**With AbsolutePointer:** You can **increase or decrease pointer speed** while keeping the full active area, ensuring both comfort and accuracy.
+**With Absolute Pointer:** You can **increase or decrease pointer speed** while keeping the full active area, ensuring both comfort and accuracy.
 
 ---
 
