@@ -1,6 +1,6 @@
-# AbsolutePointer - OpenTabletDriver Plugin
+# Absolute Pointer - OpenTabletDriver Plugin
 
-## 🌟 What is AbsolutePointer?
+## 🌟 What is Absolute Pointer?
 **AbsolutePointer** is a powerful plugin for **OpenTabletDriver** that gives you **total control over your pointer's behavior** without modifying the **active area** of your tablet.
 
 Unlike traditional sensitivity settings that force you to reduce the active area to increase speed, **AbsolutePointer lets you fine-tune your movement responsiveness while keeping your full workspace intact.**
