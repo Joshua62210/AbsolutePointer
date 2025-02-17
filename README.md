@@ -1,13 +1,13 @@
 # Absolute Pointer - OpenTabletDriver Plugin
 
 ## 🌟 What is Absolute Pointer?
-**AbsolutePointer** is a powerful plugin for **OpenTabletDriver** that gives you **total control over your pointer's behavior** without modifying the **active area** of your tablet.
+**Absolute Pointer** is a powerful plugin for **OpenTabletDriver** that gives you **total control over your pointer's behavior** without modifying the **active area** of your tablet.
 
 Unlike traditional sensitivity settings that force you to reduce the active area to increase speed, **AbsolutePointer lets you fine-tune your movement responsiveness while keeping your full workspace intact.**
 
 ---
 
-## 🔥 Why Use AbsolutePointer?
+## 🔥 Why Use Absolute Pointer?
 
 ### **✅ Maintain Full Active Area with Precision**
 **Without this plugin:** Increasing the pointer speed usually **reduces the tablet's active area**, limiting movement precision.
@@ -29,12 +29,12 @@ Unlike traditional sensitivity settings that force you to reduce the active area
 ## ⚙️ How to Install and Use
 
 ### **Installation:**
-1. Download the **AbsolutePointer DLL file** from the [Releases](https://github.com/Joshua62210/AbsolutePointer/releases).
-2. Move the `.dll` file into the **OpenTabletDriver plugin folder**.
+1. Download the **AbsolutePointer ZIP file** from the [Releases](https://github.com/Joshua62210/AbsolutePointer/releases).
+2. Extract to the **OpenTabletDriver folder**.
 
 ### **Usage:**
 1. Open **OpenTabletDriver**.
-2. Go to the **Plugins** section and enable **AbsolutePointer**.
+2. Go to the **Plugins** section and enable **Absolute Pointer**.
 3. Adjust the **Pointer Sensitivity** value (1-20) to your preference.
 4. Enable **Advanced Controls** for fine-tuned adjustments.
 
