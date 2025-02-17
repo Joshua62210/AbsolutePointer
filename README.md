@@ -68,3 +68,5 @@ If you enjoy using this plugin, consider leaving feedback or contributing to the
 
 ### 🎉 Thank you for using AbsolutePointer! 🎉
 
+### 💖 Special Thanks
+A huge thank you to ChatGPT for assisting with the technical explanations, writing, and refining this project. This plugin was a true collaborative effort, and I couldn’t have done it without this help! 😊💖
